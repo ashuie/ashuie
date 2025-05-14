@@ -1,4 +1,4 @@
-## Hi, I'm Ashley :wave:
+## About
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ashuie&layout=compact">
